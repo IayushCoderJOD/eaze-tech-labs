@@ -55,7 +55,7 @@ const Headers = () => {
                 <HeaderCards name={"3"} />
                 <HeaderCards name={"4"} />
             </div>
-            <div className='mt-4 flex justify-around'>
+            <div className='mt-4 flex flex-wrap justify-around'>
                 <BiggerCards name={"big1"} />
                 <BiggerCards name={"big2"} />
                 <BiggerCards name={"big3"} />
